@@ -28,10 +28,10 @@ I'm a third-year Computer Science student at **The Hebrew University of Jerusale
 ---
 
 ## 🔥 Featured Projects
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **ScholarGigs** | `React` `Node.js` `Cloud` | Freelance platform for the student community. |
-
+| Project | Tech Stack | Description | Open source | Demo |
+| :--- | :--- | :--- | :--- | :--- |
+| **ScholarGigs** | `React` `Node.js` `Cloud` | Freelance platform for the student community. | False | https://scholargigs.co.il/ |
+| **Moodle Tasks** | `React` `Node.js` `Cloud` | App that pulls your Moodle calendar feed, lists every deadline ordered by date, and helps you stay on top of submissions. | True | https://moodletasks.tsukrun.com/ |
 ---
 
 ## 📫 Connect with me
