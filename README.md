@@ -28,10 +28,10 @@ I'm a third-year Computer Science student at **The Hebrew University of Jerusale
 ---
 
 ## 🔥 Featured Projects
-| Project | Tech Stack | Description | Open source | Demo |
-| :--- | :--- | :--- | :--- | :--- |
-| **ScholarGigs** | `React` `Node.js` `Cloud` | Freelance platform for the student community. | False | https://scholargigs.co.il/ |
-| **Moodle Tasks** | `React` `Node.js` `Cloud` | App that pulls your Moodle calendar feed, lists every deadline ordered by date, and helps you stay on top of submissions. | True | https://moodletasks.tsukrun.com/ |
+| Project | Tech Stack | Description | Open Source | Demo |
+| :--- | :--- | :--- | :---: | :---: |
+| **Moodle Tasks** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | An intuitive task manager that pulls your Moodle calendar feed, lists deadlines chronologically, and uses Gemini AI to break down tasks. | 🟢 `Yes` | [🚀 Live Demo](https://moodletasks.tsukrun.com/) |
+| **ScholarGigs** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | A dedicated freelance platform tailored specifically for the student and academic community. | 🔴 `No` | [🚀 Live Demo](https://scholargigs.co.il/) |
 ---
 
 ## 📫 Connect with me
