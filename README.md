@@ -1,6 +1,6 @@
 # ⚡ Hi, I'm Yarin Tsukrun
 
-###  CS Student @ Hebrew University | Full-stack Freelancer
+### CS Student @ Hebrew University | Full-stack Freelancer
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Building+Scalable+Cloud+Solutions;Machine+Learning+Enthusiast;Freelance+Developer" alt="Typing SVG" />
@@ -12,8 +12,7 @@
 I'm a third-year Computer Science student at **The Hebrew University of Jerusalem** with a passion for turning complex problems into high-performance code. 
 
 * 💻 **Freelancer:** Delivering end-to-end cloud-native solutions (Production-ready pipelines).
-* 🏗️ **Currently Building:** [ScholarGigs](https://scholargigs.work/) - Connecting students with industry.
-* 🛡️ **Cybersecurity & ML:** Deeply interested in binary analysis and neural networks.
+* 🏗️ **Currently Building:** [ScholarGigs](https://scholargigs.co.il/) - Connecting students with industry.
 * ⚡ **Fast Learner:** Proven ability to deliver high-quality results under tight deadlines.
 
 ---
@@ -31,7 +30,8 @@ I'm a third-year Computer Science student at **The Hebrew University of Jerusale
 | Project | Tech Stack | Description | Open Source | Demo |
 | :--- | :--- | :--- | :---: | :---: |
 | **Moodle Tasks** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | An intuitive task manager that pulls your Moodle calendar feed, lists deadlines chronologically, and uses Gemini AI to break down tasks. | [📁 Code](https://github.com/yarintsukrun/MoodleTasks) | [🚀 Live Demo](https://moodletasks.tsukrun.com/) |
-| **ScholarGigs** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | A dedicated freelance platform tailored specifically for the student and academic community. | 🔴 `Private` | [🚀 Live Demo](https://scholargigs.co.il/) |
+| **ScholarGigs** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | A dedicated freelance platform tailored specifically for the student and academic community. | 🔴 `Private` | [🚀 Live Demo](https://scholargigs.co.il/) |
+
 ---
 
 ## 📫 Connect with me
