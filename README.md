@@ -21,7 +21,7 @@ I'm a third-year Computer Science student at **The Hebrew University of Jerusale
 ## 🛠 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,linux,git,docker,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,golang,js,ts,html,css,linux,git,docker,react,nodejs" />
   </a>
 </p>
 
